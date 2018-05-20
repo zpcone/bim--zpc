@@ -1,0 +1,29 @@
+{
+  "Language": 6,
+  "Version": "2016",
+  "FromRvt": "J:\\桃源居带水电删除双人床消毒柜.rvt",
+  "References": {
+    "LIntegrated": [
+      "桃源居带水电删除双人床消毒柜.1.bin",
+      "桃源居带水电删除双人床消毒柜.2.bin",
+      "桃源居带水电删除双人床消毒柜.3.bin",
+      "桃源居带水电删除双人床消毒柜.4.bin",
+      "桃源居带水电删除双人床消毒柜.5.bin",
+      "桃源居带水电删除双人床消毒柜.6.bin",
+      "桃源居带水电删除双人床消毒柜.pc"
+    ]
+  },
+  "ToGbims": {
+    "LIntegrated": "桃源居带水电删除双人床消毒柜.gbim"
+  },
+  "Thumbnail": "桃源居带水电删除双人床消毒柜 - 三维视图 - {3D}.png",
+  "Success": true,
+  "ErrorCode": 0,
+  "ErrorMsg": null,
+  "ErrorDetails": null,
+  "Properties": {
+    "LIntegrated": "桃源居带水电删除双人床消毒柜.pi"
+  },
+  "ToGbms": null,
+  "ToObjs": null
+}
